@@ -6,7 +6,14 @@ tmp
 Desktop.ini
 7z.exe
 curl.exe
-
+*.dll
+*.res
+*.exe
+tmp
+obj
+lib
+include/SFML
+bin
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
