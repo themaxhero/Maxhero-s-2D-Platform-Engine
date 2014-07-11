@@ -1,10 +1,8 @@
-Just a base project for creating SFML games :P
-
-## License
+#====================================License==============================================
 
 It's MIT licensed, so feel free to use in any project:
 
-  Copyright (c) 2014 Christian Ferraz Lemos de Sousa
+  Copyright (C) 2014 Marcelo "maxhero" Amâncio de Lima Santos
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
